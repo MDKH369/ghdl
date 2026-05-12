@@ -1,0 +1,12 @@
+source_branch: patch-1
+trigger_commit: bacc5b6dd4e6d1c8b285d4ca1b0bf7a273cd0746
+commit_message: |
+  https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/Armoury_Crate_Full_Installation_Package.zip?model=Armoury%20Crate
+part: 4 of 4
+files:
+  - Armoury_Crate_Full_Installation_Package.zip.7z.046
+  - Armoury_Crate_Full_Installation_Package.zip.7z.047
+  - Armoury_Crate_Full_Installation_Package.zip.7z.048
+  - Armoury_Crate_Full_Installation_Package.zip.7z.049
+  - Armoury_Crate_Full_Installation_Package.zip.7z.050
+  - Armoury_Crate_Full_Installation_Package.zip.7z.051
